@@ -1,6 +1,6 @@
 # Instituto Sophia
 
-Site institucional desenvolvido para o Instituto Sophia, com o objetivo de apresentar a instituição, divulgar suas campanhas e mostrar formas de contribuir com seu trabalho.
+Site institucional desenvolvido para o Instituto 20MilAmigos, com o objetivo de apresentar a instituição, divulgar suas campanhas e mostrar formas de contribuir com seu trabalho.
 
 ## Sobre o projeto
 
@@ -36,7 +36,3 @@ Também é possível utilizar a extensão Live Server para visualizar o site dur
 ## Publicação
 
 O projeto pode ser hospedado gratuitamente pelo GitHub Pages.
-
----
-
-Desenvolvido para o Instituto Sophia.
